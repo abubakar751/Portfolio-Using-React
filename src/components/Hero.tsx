@@ -59,7 +59,7 @@ const Hero: React.FC = () => {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.5, delay: 0.6 }}
               >
-                Java Developer & Software Engineer
+                Software Engineer & Specialist Java Developer
               </motion.h2>
 
               <motion.p

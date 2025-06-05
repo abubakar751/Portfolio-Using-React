@@ -65,7 +65,7 @@ const HomePage: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <SectionTitle 
             title="About Me" 
-            subtitle="Experienced Java Developer specializing in building robust web applications." 
+            subtitle=" Software Engineer Specialist Java Developer specializing in building robust web applications." 
           />
           
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
